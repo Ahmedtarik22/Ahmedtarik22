@@ -73,7 +73,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/ahmedtarik24/" target="_blank">
-<img src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
